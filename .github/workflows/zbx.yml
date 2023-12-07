@@ -14,7 +14,7 @@ on:
       - '!**/README.md'
       - '!Dockerfiles/*/rhel/*'
       - '!Dockerfiles/*/windows/*'
-      - '.github/workflows/images_build.yml'
+      - '.github/workflows/revdau_zbx.yml'
 
 defaults:
   run:
